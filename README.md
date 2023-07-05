@@ -1,5 +1,3 @@
-#Hosted Link
-https://apni-coding.github.io/Todo-List-Using-React/
 
 # Todo List
 
@@ -71,5 +69,4 @@ If you'd like to contribute to this project, please follow these steps:
 - The Todo List app was created as a learning exercise based on a tutorial or example.
 - [React](https://reactjs.org/) - The JavaScript library used for building the user interface.
 - [React Toastify](https://fkhadra.github.io/react-toastify/) - A library for displaying toast notifications in React applications.
-  ## Owner
-  Vivek Kumar
+
